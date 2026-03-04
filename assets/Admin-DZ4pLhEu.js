@@ -1,0 +1,1 @@
+import{_ as o,c as t,b as c,r as n,o as s}from"./index-BU78_QHQ.js";const a={},r={class:"admin_page"};function _(d,i){const e=n("RouterView");return s(),t("div",r,[c(e)])}const p=o(a,[["render",_],["__scopeId","data-v-6695d5ae"]]);export{p as default};
